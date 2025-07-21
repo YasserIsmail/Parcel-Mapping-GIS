@@ -97,3 +97,7 @@ This project aims to develop a **clean, topologically correct parcel map** from 
 
 ---
 
+### 👨‍💻 **Author**
+
+* **Yasser I. Barhoom**
+* **Geospatial Engineer**
